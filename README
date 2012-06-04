@@ -3,7 +3,7 @@
  ( P | e | r | s | e | u | s )
   \_/ \_/ \_/ \_/ \_/ \_/ \_/ 
 
-Perseus Viewer is a Second Life protocol compatible client application. It
-can be used to access Second Life service as well as a number of other such as
-those based upon OpenSim plattform. It is directly based upon source code of 
-code released by Linden Lab, with contributions from various sources.
+Perseus Viewer is a Second Life protocol compatible client application. 
+This viewer can be used to access services based upon OpenSim or Aurora plattform. 
+It is directly based upon source code of code released by Linden Lab, 
+with contributions from various sources.
