@@ -1,9 +1,12 @@
-   _   _   _   _   _   _   _  
-  / \ / \ / \ / \ / \ / \ / \ 
- ( P | e | r | s | e | u | s )
-  \_/ \_/ \_/ \_/ \_/ \_/ \_/ 
+ _______  _______  ______    _______  _______  __   __  _______ 
+|       ||       ||    _ |  |       ||       ||  | |  ||       |
+|    _  ||    ___||   | ||  |  _____||    ___||  | |  ||  _____|
+|   |_| ||   |___ |   |_||_ | |_____ |   |___ |  |_|  || |_____ 
+|    ___||    ___||    __  ||_____  ||    ___||       ||_____  |
+|   |    |   |___ |   |  | | _____| ||   |___ |       | _____| |
+|___|    |_______||___|  |_||_______||_______||_______||_______|
 
 Perseus Viewer is a Second Life protocol compatible client application. 
-This viewer can be used to access services based upon OpenSim or Aurora plattform. 
+This viewer can be used to access services based upon the WhiteCore plattform. 
 It is directly based upon source code released by Linden Lab,
 with contributions from various sources.
